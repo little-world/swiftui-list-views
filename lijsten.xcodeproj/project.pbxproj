@@ -19,6 +19,7 @@
 		FEBFD1232588F18500592BE7 /* Lijst7View.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEBFD1222588F18500592BE7 /* Lijst7View.swift */; };
 		FEBFD1262588FFCD00592BE7 /* Lijst8View.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEBFD1252588FFCD00592BE7 /* Lijst8View.swift */; };
 		FEBFD129258901AF00592BE7 /* Lijst9View.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEBFD128258901AF00592BE7 /* Lijst9View.swift */; };
+		FED0AA5825F63B0900192689 /* CourseList.swift in Sources */ = {isa = PBXBuildFile; fileRef = FED0AA5725F63B0900192689 /* CourseList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		FEBFD1222588F18500592BE7 /* Lijst7View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lijst7View.swift; sourceTree = "<group>"; };
 		FEBFD1252588FFCD00592BE7 /* Lijst8View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lijst8View.swift; sourceTree = "<group>"; };
 		FEBFD128258901AF00592BE7 /* Lijst9View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lijst9View.swift; sourceTree = "<group>"; };
+		FED0AA5725F63B0900192689 /* CourseList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				FEBFD1222588F18500592BE7 /* Lijst7View.swift */,
 				FEBFD1252588FFCD00592BE7 /* Lijst8View.swift */,
 				FEBFD128258901AF00592BE7 /* Lijst9View.swift */,
+				FED0AA5725F63B0900192689 /* CourseList.swift */,
 			);
 			path = lijsten;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 				FEBFD1132588EA5900592BE7 /* Lijst2View.swift in Sources */,
 				FEBFD1052588E91100592BE7 /* Lijst1View.swift in Sources */,
 				FEBFD129258901AF00592BE7 /* Lijst9View.swift in Sources */,
+				FED0AA5825F63B0900192689 /* CourseList.swift in Sources */,
 				FEBFD1032588E91100592BE7 /* lijstenApp.swift in Sources */,
 				FEBFD1232588F18500592BE7 /* Lijst7View.swift in Sources */,
 				FEBFD1262588FFCD00592BE7 /* Lijst8View.swift in Sources */,
